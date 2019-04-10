@@ -79,7 +79,7 @@ include 'includes/config.php';?>
                     </div>
                     <!-- /.panel -->
                     <p class="text-muted text-center"><small>Copyright © <a
-                                href="http://www.phpgurukul.com/">PHPGURUKUL</a> 2017</small></p>
+                                href="">SRMS</a> 2019</small></p>
                 </div>
                 <!-- /.col-md-6 col-md-offset-3 -->
             </div>
